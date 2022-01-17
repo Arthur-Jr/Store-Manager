@@ -1,14 +1,14 @@
 # Store Manager
 
 # Contexto
+
 A API que foi construída trata-se de um sistema de gerenciamento de vendas, onde é possível criar,
 visualizar, deletar e atualizar produtos e vendas.
 
 ## Técnologias usadas
 
 Back-end:
-> Desenvolvido usando: NodeJS, ExpressJS, MongoDB, ES6, Joi, Mocha, Sinon, chai
-
+> Desenvolvido usando: NodeJS, ExpressJS, arquitetura MSC , MongoDB, ES6, Joi, Mocha, Sinon, chai.
 ## Instalando Dependências
 
 * Backend
