@@ -8,7 +8,7 @@ visualizar, deletar e atualizar produtos e vendas.
 ## Técnologias usadas
 
 Back-end:
-> Desenvolvido usando: NodeJS, ExpressJS, arquitetura MSC, Rest, MongoDB, ES6, Joi, Mocha, Sinon, chai.
+> Desenvolvido usando: NodeJS, ExpressJS, arquitetura MSC, Rest, MongoDB, ES6, Teste Unitário, Joi, Mocha, Sinon, chai.
 ## Instalando Dependências
 
 * Backend
