@@ -11,7 +11,9 @@ Back-end:
 > Desenvolvido usando: NodeJS, ExpressJS, arquitetura MSC, Rest, MongoDB, ES6, Teste Unitário, Joi, Mocha, Sinon, chai.
 ## Instalando Dependências
 
-* Backend
+Clone o repositório:
+
+```git clone git@github.com:Arthur-Jr/Store-Manager.git```
 
   ```
   Na raiz do projeto:
